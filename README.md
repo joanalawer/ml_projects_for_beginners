@@ -4,10 +4,13 @@ Machine Learning  Data Science project from Aman Kharwal's 180 projects.
 
 NB: Datasets may vary.
 
-LINKS TO DATASETS
+# LINKS TO DATASETS
 
 heights.csv (https://www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022)
 
 prices.csv (https://www.kaggle.com/datasets/dgawlik/nyse)
 
 creditcard.csv (https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/)
+
+# IMPORTING LIBRARIES
+1. Using plotly you need to have the lasteed version of nbformat installed.
