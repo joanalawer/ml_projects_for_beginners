@@ -1,4 +1,4 @@
-# ML_projects_for_beginners
+# ml_projects_for_beginners
 Machine Learning  Data Science project from Aman Kharwal's 180 projects.
 The main branch has original works of Aman Kharwal and the new branch are updates I made to these works
 NB: Datasets may vary.
