@@ -2,3 +2,4 @@ venv
 creditcard.csv
 heights.csv
 .ipynb_checkpoints
+stockprices
