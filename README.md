@@ -13,4 +13,4 @@ prices.csv (https://www.kaggle.com/datasets/dgawlik/nyse)
 creditcard.csv (https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/)
 
 # IMPORTING LIBRARIES
-1. Using plotly you need to have the lasteed version of nbformat installed.
+1. Using plotly you need to have the latest version of nbformat installed.
